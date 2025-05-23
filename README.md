@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jerome Katuse
 =====================================================================================================================================
 
-I am a part time student at the IYF weekend program currently studying programming with an aim of finishing so that I may take on challenging problems and to systematically create innovative solutions
+I am a part time student at gomy code the currently studying mit 
+with an aim of finishing so that I may take on challenging problems and to systematically create innovative solutions
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [jeromekatuse@gmail.com](mailto:jeromekatuse@gmail.com)
